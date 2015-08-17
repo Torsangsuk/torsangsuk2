@@ -1,4 +1,4 @@
-Torsangsuk2 on EasyRTC Server 
+Torsangsuk2 (deployed on EasyRTC Server) 
 ======================
 
 Files and Folders:
