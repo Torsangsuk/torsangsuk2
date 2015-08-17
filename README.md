@@ -23,8 +23,8 @@ Running the Server:
  - Type `node server.js` in console (such as Linux Terminal and Git Bash).
 
 
-Viewing the examples:
+Viewing Torsangsuk2 :
 ---------------------
 
- - In your WebRTC enabled browser, visit your server address including the port. By default port 8080 is used.
- - http://localhost:8080/demos/myapp/videochat.html
+ - In your WebRTC enabled browser (Google Chrome recommended), visit your server address including the port. By default port 8080 is used.
+ - http://localhost:8080/demos/myapp/videochat.html is by default
