@@ -1,14 +1,12 @@
-EasyRTC Server Example
+Torsangsuk2 on EasyRTC Server 
 ======================
-
-This folder contains all the files you'll need to create a simple server with EasyRTC, Express, and Socket.io. You can copy these files where you wish.
 
 Files and Folders:
 ------------------
 
  - package.json - Provides project information allowing npm to find and install required modules.
- - server.js - Server code.
- - /static/ - Root folder for web server. Put html files here!
+ - \torsangsuk2\server.js - Torsangsuk2 Server code.
+ - \torsangsuk2\node_modules\easyrtc\demos\myapp -  Torsangsuk2 codes are here
 
  
 Installing Required Modules:
@@ -22,11 +20,11 @@ Installing Required Modules:
 Running the Server:
 -------------------
 
- - Type `node server` in console.
+ - Type `node server.js` in console (such as Linux Terminal and Git Bash).
 
 
 Viewing the examples:
 ---------------------
 
  - In your WebRTC enabled browser, visit your server address including the port. By default port 8080 is used.
- - http://localhost:8080/
+ - http://localhost:8080/demos/myapp/videochat.html
