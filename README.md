@@ -11,7 +11,7 @@ Files and Folders:
 Installing NodeJS:
 
  - `https://nodejs.org/download/` 
- - For Linux Servers OS, nodejs-legacy is preferred (Ubuntu Server: sudo apt-get install nodejs-legacy)
+ - For Linux Servers OS, nodejs-legacy is preferred (Ubuntu Server: `sudo apt-get install nodejs-legacy`)
 
  
 Installing Required Modules:
